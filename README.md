@@ -1,2 +1,2 @@
-# aws_capstone_private
-our private repo for aws capstone project
+# aws_capstone_Social_Sentiment
+our repo for aws capstone project - social sentiment
